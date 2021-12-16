@@ -1,4 +1,4 @@
-# DiscordBot
+# DiscordBot **MAFIA**
 Plays Mafia Card Game
 #Rules
 
