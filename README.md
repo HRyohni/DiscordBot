@@ -19,12 +19,15 @@ is mafia, every round he is picing some one to kill \
 **Numbers** \
 are civilians, they are just part of the game. \
 
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435877645058080/8.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435879960313906/7.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435881193308160/6.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435882245685358/5.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435884032851989/4.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435885320241183/3.png"  width="100"/>
+</p>
+
 
 ###
 ###
