@@ -21,7 +21,6 @@ are civilians, they are just part of the game.
 
 <p align="left">
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435877645058080/8.png"  width="100"/>
-  <p> </p>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435879960313906/7.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435881193308160/6.png"  width="100"/>
 <img src="https://cdn.discordapp.com/attachments/667837251203366923/762435882245685358/5.png"  width="100"/>
