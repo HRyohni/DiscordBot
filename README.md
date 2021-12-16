@@ -4,6 +4,8 @@ Plays Mafia Card Game
 
 **Queen** \
 is for Doctor, doctor can save someones life or he can save himself" 
+![Tux, the Linux mascot](https://media.discordapp.net/attachments/667837251203366923/762433086038212648/QUEEN.png)
+
 ###
 **King**  \
 is Sherif,sherif can pick someone and narrator will tell him if he is mafia 
