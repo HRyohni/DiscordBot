@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot for amoung us codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yohni",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^12.5.3",
+    "discord.js-poll-embed": "file:node_modules/discord.js-poll-embed",
+    "dotenv": "^10.0.0"
+  }
+}
