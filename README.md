@@ -9,13 +9,23 @@ is for Doctor, doctor can save someones life or he can save himself" \
 
 ###
 **King**  \
-is Sherif,sherif can pick someone and narrator will tell him if he is mafia 
+is Sherif,sherif can pick someone and narrator will tell him if he is mafia \
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762433078056321044/KING.png"  width="200"/>
 ###
 **Ace** \
-is mafia, every round he is picing some one to kill 
+is mafia, every round he is picing some one to kill \
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762433075690340352/AS.png"  width="200"/>
 ###
 **Numbers** \
-are civilians, they are just part of the game. 
+are civilians, they are just part of the game. \
+
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435877645058080/8.png"  width="100"/>
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435879960313906/7.png"  width="100"/>
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435881193308160/6.png"  width="100"/>
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435882245685358/5.png"  width="100"/>
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435884032851989/4.png"  width="100"/>
+<img src="https://cdn.discordapp.com/attachments/667837251203366923/762435885320241183/3.png"  width="100"/>
+
 ###
 ###
 **How to play** \
