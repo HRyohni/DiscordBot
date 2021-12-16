@@ -2,7 +2,8 @@
 Plays Mafia Card Game
 #Rules
 
-**Queen** \ \
+**Queen** \
+###
 is for Doctor, doctor can save someones life or he can save himself" \
 **King**  \
 is Sherif,sherif can pick someone and narrator will tell him if he is mafia \
