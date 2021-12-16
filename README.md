@@ -2,16 +2,16 @@
 Plays Mafia Card Game
 #Rules
 
-**Queen** 
+**Queen** \
 is for Doctor, doctor can save someones life or he can save himself" 
 ###
-**King**  
+**King**  \
 is Sherif,sherif can pick someone and narrator will tell him if he is mafia 
 ###
-**Ace** 
+**Ace** \
 is mafia, every round he is picing some one to kill 
 ###
-**Numbers** 
+**Numbers** \
 are civilians, they are just part of the game. 
 ###
 ###
