@@ -368,14 +368,6 @@ client.on('message', msg => {
 
             break;
 
-        case 'ann':
-
-
-
-             client.users.cache.get("905200234001494028").send("hay FAG what do yo want cunt!")
-            //client.users.cache.get("331766001983291403").send("if you need more info contact sir **HRyohni 2#8565** and **not this bot**")
-            break;
-
         case 'info':
             console.log("______________________________")
             u = 0;
@@ -420,7 +412,7 @@ client.on('message', msg => {
                 msg.channel.bulkDelete(args[1]);
 
             } catch (err) {
-                msg.reply("need to be a nummber cunt");
+                msg.reply("need to be a nummber");
             }
 
             break;
@@ -437,7 +429,7 @@ client.on('message', msg => {
              
 
         case 'kill':
-            if (!args[1]) return msg.reply('missing second argument cunt pick a player!');
+            if (!args[1]) return msg.reply('missing second argument pick a player!');
             if (gamestarted == true) {
                 msg.reply("you picked player " + args[1] + " to kill");
                 s1 = args[1];
@@ -464,7 +456,7 @@ client.on('message', msg => {
 
         case 'search':
 
-            if (!args[1]) return msg.reply('missing second argument cunt pick a player!');
+            if (!args[1]) return msg.reply('missing second argument pick a player!');
 
             if (gamestarted == true) {
 
@@ -487,7 +479,7 @@ client.on('message', msg => {
         
 
         case 'save':
-            if (!args[1]) return msg.reply('missing second argument cunt pick a player!');
+            if (!args[1]) return msg.reply('missing second argument pick a player!');
             if (gamestarted == true) {
                 msg.reply("you picked " + args[1] + " to save");
                 s2 = args[1];
