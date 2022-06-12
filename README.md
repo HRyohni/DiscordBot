@@ -34,12 +34,23 @@ are civilians, they are just part of the game.
 **How to play** \
 There are 4 classes **Mafia**, **Civil**, **Sheriff** and **Doctor**.
 
+
 **Mafia** role is to kill someone and not get caught
+
+
 **Sheriff** is picking a player and gets a clue if a player is a mafia or not
+
+
 **Doctor** can pick a player to save. If mafia  and doctor pick the same player doctor can save him and he plays after the round
+
+
 **Civil** is a player who is just part of the story.
 
+
+
 The game starts with the narrator telling a story and includes players in the story. The narrator must tell a story so a player who got selected by mafia died. If doctor saved him he can't speak for the current round.
+
+
 
 After the narrator tells a story everyone must say where they are in that scenario and players must discuss who could have killed the victim based on their stories. 
 Players must vote someone off, the player with the most votes is kicked from the round and the game continues. To win the game, mafia must kill everyone, everyone else must kick mafia to win.
